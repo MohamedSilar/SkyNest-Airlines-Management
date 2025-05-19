@@ -123,6 +123,3 @@ Thank you for exploring the SkyNest Airlines project! Your feedback is welcome a
 ```
 
 ---
-
-Let me know if you want help customizing the logo, screenshots, or adding deployment info (if any)!
-```
