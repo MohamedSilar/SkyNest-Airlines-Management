@@ -1,4 +1,4 @@
-# SkyNest Airlines – Airline Management System ✈️  
+# SkyNest Airlines – Airline Management System✈️  
 Welcome to the **SkyNest Airlines** repository! This is a desktop-based Airline Management System developed using Java Swing and MySQL. It enables efficient management of flights, bookings, passenger records, and airline schedules, making the process of managing an airline seamless and user-friendly.
 
 ---
