@@ -4,10 +4,7 @@
  */
 package com.mycompany.airline_project;
 
-/**
- *
- * @author priya
- */
+
 public class Main extends javax.swing.JFrame {
 
     /**
