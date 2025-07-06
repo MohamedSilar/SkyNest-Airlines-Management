@@ -4,10 +4,7 @@
 
 package com.mycompany.airline_project;
 
-/**
- *
- * @author priya
- */
+
 public class Airline_Project {
 
     public static void main(String[] args) {
