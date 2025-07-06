@@ -4,10 +4,7 @@
  */
 package com.mycompany.airline_project;
 
-/**
- *
- * @author priya
- */
+
 class DateFormate {
     
 }
