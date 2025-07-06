@@ -19,10 +19,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author priya
- */
+
 public class BookTicket extends javax.swing.JInternalFrame {
 
     /**
