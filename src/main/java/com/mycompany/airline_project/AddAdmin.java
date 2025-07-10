@@ -36,7 +36,7 @@ public class AddAdmin extends javax.swing.JInternalFrame {
            Connection con;
            PreparedStatement pre;
            Class.forName("com.mysql.jdbc.Driver");
-           con = DriverManager.getConnection("jdbc:mysql://localhost/Airline_Project", "root","Priya004#");
+           con = DriverManager.getConnection("jdbc:mysql://localhost/Airline_Project", "root","269426");
            pre = con.prepareStatement("Select MAX(AdminID) from Admin");
            ResultSet rs = pre.executeQuery();
            rs.next(); //initialise resultset
